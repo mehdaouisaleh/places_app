@@ -7,11 +7,11 @@ A Flutter Places Mobile Application.
 This project was made using Flutter Framework.
 
 Some of the packages used in this project :
-[Staggered Grid View](https://pub.dev/packages/flutter_staggered_grid_view)
-[SQFlite](https://pub.dev/packages/sqflite)
-[Location](https://pub.dev/packages/location)
-[Flutter Map](https://pub.dev/packages/flutter_map)
-[Geocoder](https://pub.dev/packages/geocoder)
+[Staggered Grid View](https://pub.dev/packages/flutter_staggered_grid_view)<br/>
+[SQFlite](https://pub.dev/packages/sqflite)<br/>
+[Location](https://pub.dev/packages/location)<br/>
+[Flutter Map](https://pub.dev/packages/flutter_map)<br/>
+[Geocoder](https://pub.dev/packages/geocoder)<br/>
 [Showcase View](https://pub.dev/packages/showcaseview)
 
 ### Main Screen

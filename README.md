@@ -1,4 +1,4 @@
-# places_app
+# places app
 
 A Flutter Places Mobile Application.
 
